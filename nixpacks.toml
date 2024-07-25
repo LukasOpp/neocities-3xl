@@ -1,5 +1,3 @@
-providers = ["vagrant"]
-
 [build]
 steps = [
   "brew install --cask vagrant",
